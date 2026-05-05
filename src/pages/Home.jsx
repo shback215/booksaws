@@ -4,6 +4,8 @@ import Trees from '../assets/Trees.jpg'
 import Icarus from '../assets/Icarus.jpg'
 import Jack from '../assets/Jack.jpg'
 import BookCard from '../components/BookCard'
+import ApiTest from '../components/ApiTest'
+import BookApi from '../components/BookApi'
 
 const books = [
   {
@@ -61,6 +63,9 @@ function Home() {
                 ))}
                 
                 </section>
+                
+                <ApiTest />
+                <BookApi />
             </main>
 
             <footer className="footer">

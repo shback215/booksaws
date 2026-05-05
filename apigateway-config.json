@@ -1,0 +1,48 @@
+{
+    "name": "BooksAwsAPI",
+    "description": "API Gateway for BooksAws Lambda functions",
+    "version": "1.0",
+    "resources": [
+        {
+            "resourcePath": "/test",
+            "httpMethod": "GET",
+            "authorizationType": "NONE",
+            "apiKeyRequired": false,
+            "requestTemplates": {
+                "application/json": "{\"statusCode\": 200}"
+            },
+            "responses": {
+                "200": {
+                    "statusCode": "200",
+                    "responseParameters": {
+                        "method.response.header.Access-Control-Allow-Origin": true,
+                        "method.response.header.Access-Control-Allow-Headers": true,
+                        "method.response.header.Access-Control-Allow-Methods": true
+                    },
+                    "responseTemplates": {
+                        "application/json": "$input.path('$')"
+                    }
+                }
+            }
+        },
+        {
+            "resourcePath": "/test",
+            "httpMethod": "OPTIONS",
+            "authorizationType": "NONE",
+            "apiKeyRequired": false,
+            "responses": {
+                "200": {
+                    "statusCode": "200",
+                    "responseParameters": {
+                        "method.response.header.Access-Control-Allow-Origin": true,
+                        "method.response.header.Access-Control-Allow-Headers": true,
+                        "method.response.header.Access-Control-Allow-Methods": true
+                    },
+                    "responseTemplates": {
+                        "application/json": ""
+                    }
+                }
+            }
+        }
+    ]
+}

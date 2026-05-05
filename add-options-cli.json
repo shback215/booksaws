@@ -1,0 +1,35 @@
+{
+  "restApiId": "f219l57mp8",
+  "resourceId": "YOUR_RESOURCE_ID",
+  "httpMethod": "OPTIONS",
+  "authorizationType": "NONE",
+  "integration": {
+    "type": "MOCK",
+    "requestTemplates": {
+      "application/json": "{\"statusCode\": 200}"
+    },
+    "integrationResponses": [
+      {
+        "statusCode": "200",
+        "responseParameters": {
+          "method.response.header.Access-Control-Allow-Origin": "'*'",
+          "method.response.header.Access-Control-Allow-Headers": "'Content-Type,X-Amz-Date,Authorization,X-Api-Key,X-Amz-Security-Token'",
+          "method.response.header.Access-Control-Allow-Methods": "'GET,POST,PUT,DELETE,OPTIONS'"
+        },
+        "responseTemplates": {
+          "application/json": ""
+        }
+      }
+    ]
+  },
+  "methodResponses": [
+    {
+      "statusCode": "200",
+      "responseParameters": {
+        "method.response.header.Access-Control-Allow-Origin": true,
+        "method.response.header.Access-Control-Allow-Headers": true,
+        "method.response.header.Access-Control-Allow-Methods": true
+      }
+    }
+  ]
+}
