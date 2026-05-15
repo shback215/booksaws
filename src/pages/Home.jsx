@@ -4,7 +4,6 @@ import Trees from '../assets/Trees.jpg'
 import Icarus from '../assets/Icarus.jpg'
 import Jack from '../assets/Jack.jpg'
 import BookCard from '../components/BookCard'
-import ApiTest from '../components/ApiTest'
 import BookApi from '../components/BookApi'
 
 const books = [
@@ -21,7 +20,7 @@ const books = [
       { title: "A Year in the Valley", link: "https://www.amazon.com/Year-Valley-Chapter-Dogwood-Chapters/dp/B0BW2RY35C" },
       { title: "The Big Time Newspaper Man", link: "https://www.amazon.com/Big-Time-Newspaper-Man-Chapter-Chapters-ebook/dp/B0BTY9W2SL" },      
       { title: "Shanties Never Sung", link: "https://www.amazon.com/Shanties-Never-Sung-Chapter-Chapters-ebook/dp/B0BTYGB85B" },
-      { title: "Five Stories of a Summer Night", link: "https://www.amazon.com/Five-Stories-Summer-Night-Chapters-ebook/dp/B0BTYJ1YFH" },
+      { title: "Five Stories on a Summer Night", link: "https://www.amazon.com/Five-Stories-Summer-Night-Chapters-ebook/dp/B0BTYJ1YFH" },
       { title: "AKA Jake Spelled Jaak", link: "https://www.amazon.ca/AKA-Jake-Spelled-Jaak-Chapter/dp/B0BW2VKLD4" },
       { title: "Homecoming for Tex", link: "https://www.amazon.com/Homecoming-Tex-Chapter-Dogwood-Chapters-ebook/dp/B0BV21RQRM" }
     ]
@@ -63,8 +62,6 @@ function Home() {
                 ))}
                 
                 </section>
-                
-                <ApiTest />
                 <BookApi />
             </main>
 
@@ -75,7 +72,3 @@ function Home() {
 }
 
 export default Home
-
-
-
-    
