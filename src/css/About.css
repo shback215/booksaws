@@ -1,4 +1,22 @@
 .about {
-    padding: 1rem; 
+    padding: 2rem; 
     text-align: center;
+  }
+
+.about nav {
+    margin-top: 2rem;
+  }
+
+.about nav a {
+    text-decoration: none;
+    color: #333;
+    font-weight: 700;
+    font-size: 1.1rem;
+    padding: 0.5rem 1rem;
+    border-radius: 4px;
+    transition: background-color 0.3s ease;
+  }
+
+.about nav a:hover {
+    background-color: #f0f0f0;
   }
