@@ -4,7 +4,7 @@ import Trees from '../assets/Trees.jpg'
 import Icarus from '../assets/Icarus.jpg'
 import Jack from '../assets/Jack.jpg'
 import BookCard from '../components/BookCard'
-import BookApi from '../components/BookApi'
+// import BookApi from '../components/BookApi'
 
 const books = [
   {
@@ -62,7 +62,7 @@ function Home() {
                 ))}
                 
                 </section>
-                <BookApi />
+                {/* <BookApi /> */}
             </main>
 
             <footer className="footer">
