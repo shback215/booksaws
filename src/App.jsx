@@ -6,7 +6,7 @@ import AboutDogwood from './pages/AboutDogwood'
 import AboutIcarus from './pages/AboutIcarus'
 import AboutJack from './pages/AboutJack'
 
-import './CSS/App.css'
+import './css/App.css'
 
 function App() {
   return (
