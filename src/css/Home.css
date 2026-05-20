@@ -9,7 +9,7 @@
     margin: 0 auto 2rem;
     display: flex;
     gap: 1rem;
-    justify-content: center;
+    justify-content: center  
 }
 
 .search-input {

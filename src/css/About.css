@@ -1,22 +1,23 @@
-.about {
-    padding: 2rem; 
-    text-align: center;
-  }
+.aboutcenter {
+     text-align: center  !important;
+}
 
-.about nav {
-    margin-top: 2rem;
-  }
+.justify {   
+    text-align: justify !important;
+    text-justify: inter-word  !important; 
+    box-sizing: border-box !important;
+    margin-left: 5%  !important; 
+    margin-right: 5%  !important; 
+    margin-top: 20px  !important; 
+    margin-bottom: 10px  !important;  
+}
 
-.about nav a {
-    text-decoration: none;
-    color: #333;
-    font-weight: 700;
-    font-size: 1.1rem;
-    padding: 0.5rem 1rem;
-    border-radius: 4px;
-    transition: background-color 0.3s ease;
-  }
-
-.about nav a:hover {
-    background-color: #f0f0f0;
-  }
+li {   
+   text-align: justify !important;
+   text-justify: inter-word  !important; 
+   box-sizing: border-box !important;
+   margin-left: 8%  !important; 
+   margin-right: 5%  !important; 
+   margin-top: 20px  !important; 
+   margin-bottom: 10px  !important; 
+}

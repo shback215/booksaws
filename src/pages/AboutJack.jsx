@@ -1,12 +1,12 @@
-import { Link, PrefetchPageLinks } from 'react-router-dom';
-import '../css/About.css';
+import { Link } from 'react-router-dom';
+// import '../css/About.css';
 
 function AboutJack() {
   return (
-   <div className="about">
-      <h2>About <i>Me: Jack in the Box with OCD</i></h2>
+   <div>
+      <h2 className="aboutcenter">About <i>Me: Jack in the Box with OCD</i></h2>
       <div>
-        <p className="justify"><i>Me: Jack in the Box with OCD</i> is a fictionalized narration of a man with Obsessive 
+        <div className="justify"><i>Me: Jack in the Box with OCD</i> is a fictionalized narration of a man with Obsessive 
         Compulsive Disorder (OCD). This affliction began in his childhood when the protagonist Ray was nine on nights 
         his parents would leave his older brother in charge of Ray and his two younger brothers, and Ray worried their 
         parents might not be coming home that night. His older brother did the best he could to deal with Ray's worries about
@@ -25,8 +25,8 @@ function AboutJack() {
         with unwanted thoughts. Nonetheless, in the many years that followed, Ray learned to manage his OCD and live a 
         fulfilling life, even though this affliction never fully went away, for like a bull shark in shallow water,
         this Jack was always there waiting for a weak or stressed moment to pop out again.
-        </p>
-        <p className="justify">
+        </div>
+        <div className="justify">
         In Ray's narration about his lifelong struggle with OCD, he describes how the condition affected his childhood, 
         teenage years, adulthood, and all the years that followed. He talks about the constant worries and intrusive thoughts that plagued him 
         for years, and how he struggled to understand what was happening to him. He also discusses the moment when he 
@@ -36,11 +36,11 @@ function AboutJack() {
         recognition and success can be in this vocation or avocation, found a way to share his story and help others understand
         OCD. With this confession of sorts Ray wrote several related short stories that he shared with his therapist and 
         shares now with other readers, despite how few there may be.
-        </p>
+        </div>
       </div>
       <br></br>
-      <nav>
-        <Link to="/">Back to Home</Link>
+      <nav className="aboutcenter">
+        <Link className="about" to="/">Back to Home</Link>
       </nav>
     </div>    
   );

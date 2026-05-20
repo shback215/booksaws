@@ -1,20 +1,19 @@
-import { Link, PrefetchPageLinks } from 'react-router-dom';
-import '../css/About.css';
+import { Link } from 'react-router-dom';
+// import '../css/About.css';
 
 function AboutDogwood() {
   return (
-    <div className="about">
-      <h2>About <i>When The Dogwood Blooms</i></h2>
-      <div>
-        <p className="justify"><i>When the Dogwood Blooms: Seasons in a Boys Life</i> is a seven-chapter memoir. 
+    <div>
+      <h2 className="aboutcenter">About <i>When The Dogwood Blooms</i></h2>
+      <div>        
+        <div className="justify"><i>When the Dogwood Blooms: Seasons in a Boys Life</i> is a seven-chapter memoir. 
           This memoir is based on many experiences in the author's life, though much of this is fictionalized. 
           This life odyssey began with a road trip from San Antonio, Texas, to Porto Alegre, in the Rio Grande do
            Sul state of Brazil, in a 1957 New Yorker station wagon that was large enough for two adults and four
            young children to sleep in on nights when a stay at a city hotel was not on their travel budget, to a
-           class reunion on the North Shore of Chicago more than half a century later.</p>
-        <p className="justify">The seven chapters in this novel are available on Amazon Books as these seven 
-          shorter novels:</p>
-        <p className="bullet-item-justify">&bull; <i>Three Stories of The Plague</i>: This book is available on Amazon
+           class reunion on the North Shore of Chicago more than half a century later.</div>
+        <div className="justify">The seven chapters in this novel are available on Amazon Books as these seven shorter novels:</div>        
+        <li><i>Three Stories of The Plague</i>: This book is available on Amazon
         at <a target="_blank" href="https://www.amazon.com/Three-Stories-Plague-Chapter-Chapters-ebook/dp/B0BTY71HZ2">Three Stories of The Plague</a>.  
         This chapter has three sections, each with a different related story. The first story is the story of 
         wizened beggar, bent by leprosy, who approached the stationwagon in which six Texans, including the protagonist
@@ -25,9 +24,8 @@ function AboutDogwood() {
         in south central Colorado, named Saint Sebastian, is a ghost story about the love of a young man of 21 
         and a same-aged young woman also from a city in the East. The young man was an aspiring artist; and she hoped to 
         become a chef, though she found work in the soon-to-be ghost town as a barmaid.
-        </p>
-        <br></br>
-        <p className="bullet-item-justify">&bull; <i>A Year in the Valley</i>: This book is available
+        </li>
+        <li><i>A Year in the Valley</i>: This book is available
         at <a target="_blank" href="https://www.amazon.com/Year-Valley-Chapter-Dogwood-Chapters/dp/B0BW2RY35C">A Year in the Valley</a>.
         This book begins with Ray working in a large home improvement store in North Dallas when he is offered a job in 
         a small city named Donna in the cirtus-dominated southern tip of Texas, known as The Valley. After an all-night 
@@ -41,9 +39,8 @@ function AboutDogwood() {
         some of the students and reporting on football games for the newspaper in the largest city in the Valley, McAllen, 
         Ray had a rough go of it, especially with the high school principal who regularly scowled into the window of his 
         classroom, and inspite of the support of the vice principal.
-        </p>
-        <br></br>
-        <p className="bullet-item-justify">&bull; <i>The Big Time Newspaper Man</i>: This book is available
+        </li>
+        <li><i>The Big Time Newspaper Man</i>: This book is available
         at <a target="_blank" href="https://www.amazon.com/Big-Time-Newspaper-Man-Chapter-Chapters-ebook/dp/B0BTY9W2SL">The Big Time Newspaper Man</a>.
         This chapter follows Ray to Waco, where he had spent many childhood and teenaged years at his paternal grandparents' house, often attending the morning
         service and Sunday School and Training Union and the evening service on Sunday night, as well as a summer camp and on other outings with teenagers 
@@ -55,9 +52,8 @@ function AboutDogwood() {
         often waited on by a tuxedoed waiter with a pencil-thin mustache and a wooden hand that could still carry a tray of drinks and food adroitly. Despite
         finally landing a coveted full-time job as a journalist, Ray again found himself in a career rut, writing mundane stories about local events and 
         struggling to find his voice as a writer, with a city editor who was skeptical of the potential of an English major journalist.
-        </p><br></br>
-        <p className="bullet-item-justify">&bull; <i>Shanties Never Sung</i>: This book is available
-        at <a target="_blank" href="https://www.amazon.com/Shanties-Never-Sung-Chapter-Chapters-ebook/dp/B0BTYGB85B">Shanties Never Sung</a>.
+        </li>
+        <li><i>Shanties Never Sung</i>: This book is available at <a target="_blank" href="https://www.amazon.com/Shanties-Never-Sung-Chapter-Chapters-ebook/dp/B0BTYGB85B">Shanties Never Sung</a>.
         This story tells of Ray's time as a submarine Sonar tech in the US Navy. These experiences were formative for him, as he learned about discipline, 
         teamwork, and the importance of following orders, though he soon realized that the Navy was not for him. This revelation came early in his naval career
         after serving under a division officer more intent on serving himself, it seemed to Ray, than lifting up those whose lives he controlled, though the
@@ -73,9 +69,8 @@ function AboutDogwood() {
         rich material for the sailor's writing. Even so, despite these adventures, his writing garnered little recognition or interest from agents and 
         conventional publishers of others like Ernest Hemingway and Jack London. These entities, he sometimes consoled himself, were primarily interested in enriching themselves
         rather than writers who needed their help. Nonetheless, he found his voice, though to an undevoted and meager audience, by publishing on Amazon Books. But for 
-        some, hope does spring eternal; and Ray vowed to never give up on his dream of becoming a widely-read author.</p>
-        <br></br>
-        <p className="bullet-item-justify">&bull; <i>Five Stories on a Summer Night</i>: This book is available
+        some, hope does spring eternal; and Ray vowed to never give up on his dream of becoming a widely-read author.</li>
+        <li><i>Five Stories on a Summer Night</i>: This book is available
         at <a target="_blank" href="https://www.amazon.com/Five-Stories-Summer-Night-Chapters-ebook/dp/B0BTYJ1YFH">Five Stories on a Summer Night</a>.
         This chapter contains five related short stories that some critics might describe as venturing into the supernatural. The first of these stories,
         "Kiss in a Yellow Taxi," is a ghost story of sorts told within two other stories. The other four stories might more accurately be described as
@@ -91,9 +86,8 @@ function AboutDogwood() {
         story follows such a vein but with a different tone and style, centering on humans obsessive interest in physical appearance and deformities 
         of the body. The last of the five stories in this chapter follows this obsession further in a carnival show settings with a tale about 
         a supposedly headless woman.
-        </p>
-        <br></br>
-        <p className="bullet-item-justify">&bull; <i>AKA Jake Spelled Jaak</i>: This book is available
+        </li>
+        <li><i>AKA Jake Spelled Jaak</i>: This book is available
         at <a target="_blank" href="https://www.amazon.ca/AKA-Jake-Spelled-Jaak-Chapter/dp/B0BW2VKLD4">AKA Jake Spelled Jaak</a>. This chapter is the story
         of an eternally young man, whose real name was Martin, who tried to find his place in the world as a photojournalist, philosopher, and social engineer,
         and for a few years even serving as a Marine, while dealing with his own demons. These burdens were fueled by an inability to conform to the norms of society. 
@@ -108,9 +102,8 @@ function AboutDogwood() {
         of the ex-Marine Jaak's life. Even so, this chapter novel is a tribute to the memory of Martin, or Jaak. This memory began the day he stepped 
         off a plane from Munich in Dulles to await three boxes that held all of his camara and computer equipment and all the rest of his worldly possessions, 
         after making an online acquaintance with Natania a year before. This friendship ended two years later at the VA hospital in Washington DC.
-        </p>
-        <br></br>
-        <p className="bullet-item-justify">&bull; <i>Homecoming for Tex</i>: This book is available
+        </li>
+        <li><i>Homecoming for Tex</i>: This book is available
         at <a target="_blank" href="https://www.amazon.com/Homecoming-Tex-Chapter-Dogwood-Chapters-ebook/dp/B0BV21RQRM">Homecoming for Tex</a>. 
         This last chapter brings the memoir of Ray full circle, when he returns to the prep school his father sent him and his older brother to 
         when their parents split up and their father moved from his San Antonio practice as a pediatrician after their father accepted a position
@@ -132,10 +125,9 @@ function AboutDogwood() {
         to from Florida for a job as a software developer. The last section of this chapter novel is about Ray's return to the prep school his father 
         sent him and his older brother to when their parents split up. As described in "Homecoming for Tex", Ray's return to his prep school for a 
         fifty-year class reunion was a bittersweet experience.
-        </p>
+        </li>
       </div>
-      <br></br>
-      <nav>
+      <nav className="aboutcenter">
         <Link to="/">Back to Home</Link>
       </nav>
     </div>

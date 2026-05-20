@@ -61,8 +61,7 @@ function Home() {
                     <BookCard key={book.id} book={book} />
                 ))}
                 
-                </section>
-                {/* <BookApi /> */}
+                </section>                
             </main>
 
             <footer className="footer">

@@ -1,14 +1,14 @@
-import { Link, PrefetchPageLinks } from 'react-router-dom';
-import '../css/About.css';
+import { Link } from 'react-router-dom';
+// import '../css/About.css';
 
 function AboutIcarus() {
   return (
-    <div className="about">
-      <h2>About <i>Icarus: An American Odyssey</i></h2>
+    <div>
+      <h2 className="aboutcenter">About <i>Icarus: An American Odyssey</i></h2>
       <div>
-        <p className="justify"><i>Icarus: An American Odyssey</i> is a narrative novel as told by a 
-        raven named Icarus to a Baltimore native, a librarian named Robin. This narration is told in two parts.</p>
-        <p className="justify">The first section is primarily about Icarus's friendship with Edgar Allan Poe.
+        <div className="justify"><i>Icarus: An American Odyssey</i> is a narrative novel as told by a 
+        raven named Icarus to a Baltimore native, a librarian named Robin. This narration is told in two parts:</div>
+        <li>The first section is primarily about Icarus's friendship with Edgar Allan Poe.
         This friendship begins on a cold winter night when Robins meets Icarus on the windowsill of his bedroom in 
         the historic Baltimore house in which Robin had spent most of his life, up until he was compelled to move and decided to write 
         his story and that of his friend Icarus. In his narration, Robin briefly describes his infliction, due to an
@@ -19,8 +19,8 @@ function AboutIcarus() {
         Allan in Richmond, Virginia, and lasted throughout Poe's moves, primarily for employment and survival, through 
         American cities in the eastern states up until his demise. In addition to already known details about Poe's life 
         this narration also includes unpublished stories that Poes told Icarus over the many years of their friendship, 
-        in Richmond, New York, Philadelphia, and Baltimore.</p>
-        <p className="justify">
+        in Richmond, New York, Philadelphia, and Baltimore.</li>
+        <li>
         The second part of the novel is about Icarus's relationship with Huckleberry Finn and Ulysses S. Grant, during the 
         American Civil War. This narration includes Huckleberry Finn's and Jim's experiences after Huckleberry became a 
         riverboat engineer for the Union and Jim served as his assistant. Huckleberry's narration also includes experiences
@@ -30,11 +30,11 @@ function AboutIcarus() {
         Union forces in the East, where the supposed butcher and future President ended the bloody war. This narration also 
         tells the story of Huckleberry and Jim during these trying times serving with Grant on the river and in Virginia,
         and after the war in the west again.
-        </p>
+        </li>
       </div>
       <br></br>
-      <nav>
-        <Link to="/">Back to Home</Link>
+      <nav className="aboutcenter">
+        <Link className="about" to="/">Back to Home</Link>
       </nav>
     </div>
   );
