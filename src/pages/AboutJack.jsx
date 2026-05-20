@@ -11,9 +11,10 @@ function AboutJack() {
         his parents would leave his older brother in charge of Ray and his two younger brothers, and Ray worried their 
         parents might not be coming home that night. His older brother did the best he could to deal with Ray's worries about
         "What if ...?" Three years later, in a time of great stress for Ray and his family, Ray's worries became even more 
-        intense, such as times he was angry at his parents for not understanding his condition as their conflict escalated. Still, Ray did the best he could to
-        deal with such worries for more than 30 years with his undiagnosed OCD worries; but these became so overwhelming one night in mid-April when he was so worried about his taxes, after 
-        his first time alone again before April 16, after he had separated from his exwife and their six-year-old son in San Diego, that 
+        intense, such as times he was angry at his parents for not understanding his condition as their conflict escalated. Still, 
+        Ray did the best he could to deal with such worries for more than 30 years with his undiagnosed OCD worries; but these 
+        became so overwhelming one night in mid-April when he was so worried about his taxes, after his first time alone again 
+        before April 16, after he had separated from his ex-wife and their six-year-old son in San Diego, that 
         he could not sleep. These worries became so intense the next Saturday morning on the way from his new job in Northern 
         Virgina to the beach for his grandmother's funeral that he smoked a pack of cigarettes, because Ray never liked being 
         left alone, even by those who had passed on. So began his 13 days in a mental ward at a hospital at the beach, 

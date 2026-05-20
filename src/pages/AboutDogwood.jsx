@@ -16,7 +16,7 @@ function AboutDogwood() {
         <li><i>Three Stories of The Plague</i>: This book is available on Amazon
         at <a target="_blank" href="https://www.amazon.com/Three-Stories-Plague-Chapter-Chapters-ebook/dp/B0BTY71HZ2">Three Stories of The Plague</a>.  
         This chapter has three sections, each with a different related story. The first story is the story of 
-        wizened beggar, bent by leprosy, who approached the stationwagon in which six Texans, including the protagonist
+        wizened beggar, bent by leprosy, who approached the station wagon in which six Texans, including the protagonist
         Ray, passed through her mining town in the Peruvian Andes, shortly after a boy herding llamas spit on Ray's window. 
         In one of her hands, she held all she had to sell that day. The second section of this chapter is about two brothers
         in a small city named Donna, near Mexico on the southern tip of Texas, that's called The Valley. One of the brothers
@@ -28,7 +28,7 @@ function AboutDogwood() {
         <li><i>A Year in the Valley</i>: This book is available
         at <a target="_blank" href="https://www.amazon.com/Year-Valley-Chapter-Dogwood-Chapters/dp/B0BW2RY35C">A Year in the Valley</a>.
         This book begins with Ray working in a large home improvement store in North Dallas when he is offered a job in 
-        a small city named Donna in the cirtus-dominated southern tip of Texas, known as The Valley. After an all-night 
+        a small city named Donna in the citrus-dominated southern tip of Texas, known as The Valley. After an all-night 
         drive, Ray arrives in Donna and choses to accept one of two available jobs, as a high school science teacher, 
         rather than a job at the local junior high school as an English teacher, though from his college courses as an 
         undergraduate Premed English major he was qualified for both. This  chapter follows Ray as he adjusts to his new 
@@ -38,7 +38,7 @@ function AboutDogwood() {
         such  as a Donna businessman who built an arena behind his house for weekend rodeos. Despite his popularity with 
         some of the students and reporting on football games for the newspaper in the largest city in the Valley, McAllen, 
         Ray had a rough go of it, especially with the high school principal who regularly scowled into the window of his 
-        classroom, and inspite of the support of the vice principal.
+        classroom, and in spite of the support of the vice principal.
         </li>
         <li><i>The Big Time Newspaper Man</i>: This book is available
         at <a target="_blank" href="https://www.amazon.com/Big-Time-Newspaper-Man-Chapter-Chapters-ebook/dp/B0BTY9W2SL">The Big Time Newspaper Man</a>.
@@ -97,7 +97,7 @@ function AboutDogwood() {
         Nevertheless, despite a relationship with Ray and his wife Natania that only lasted two years, he left a lasting impression on them. This was perhaps 
         because, unlike most who try their best to conform, of his refusal or inability to submit to the norms of society and his unrelenting allowing the 
         winds of life to blow him to wherever it might for the 53 years his life. This life roamed from Staten Island to Okinawa in the US Marine Corp 
-        after brief careers as a stock broker wannabe in San Franisco and then to a stint in Germany where he tried to be a phojournalist. Though this 
+        after brief careers as a stock broker wannabe in San Franisco and then to a stint in Germany where he tried to be a photojournalist. Though this 
         chapter contains two short stories, one of which Jaak inspired Ray to write and another supposedly written by Martin, aka Jaak, about a segment 
         of the ex-Marine Jaak's life. Even so, this chapter novel is a tribute to the memory of Martin, or Jaak. This memory began the day he stepped 
         off a plane from Munich in Dulles to await three boxes that held all of his camara and computer equipment and all the rest of his worldly possessions, 
