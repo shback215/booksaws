@@ -69,7 +69,7 @@ function AboutDogwood() {
         rich material for the sailor's writing. Even so, despite these adventures, his writing garnered little recognition or interest from agents and 
         conventional publishers of others like Ernest Hemingway and Jack London. These entities, he sometimes consoled himself, were primarily interested in enriching themselves
         rather than writers who needed their help. Nonetheless, he found his voice, though to an undevoted and meager audience, by publishing on Amazon Books. But for 
-        some, hope does spring eternal; and Ray vowed to never give up on his dream of becoming a widely-read author.</li>
+        some, hope does spring eternal; and Ray vowed to never give up on his dream of becoming a widely read author.</li>
         <li><i>Five Stories on a Summer Night</i>: This book is available
         at <a target="_blank" href="https://www.amazon.com/Five-Stories-Summer-Night-Chapters-ebook/dp/B0BTYJ1YFH">Five Stories on a Summer Night</a>.
         This chapter contains five related short stories that some critics might describe as venturing into the supernatural. The first of these stories,
@@ -83,7 +83,7 @@ function AboutDogwood() {
         student in Ray's class. The second story, set in the Valley of Texas, where Ray once taught science at a high school, is based on the sombrero 
         and pistolero-adorned cartoonishly-drawn bandito that is a popular figure in Mexican folklore, seen most often on days such as the Day of the 
         Dead. The third story is centered around Americans obsession with weight, told in a manner similar to that of a tabloid newspaper. The fourth 
-        story follows such a vein but with a different tone and style, centering on humans obsessive interest in physical appearance and deformities 
+        story follows such a vein but with a different tone and style, centering on human's obsessive interest in physical appearance and deformities 
         of the body. The last of the five stories in this chapter follows this obsession further in a carnival show settings with a tale about 
         a supposedly headless woman.
         </li>
@@ -97,7 +97,7 @@ function AboutDogwood() {
         Nevertheless, despite a relationship with Ray and his wife Natania that only lasted two years, he left a lasting impression on them. This was perhaps 
         because, unlike most who try their best to conform, of his refusal or inability to submit to the norms of society and his unrelenting allowing the 
         winds of life to blow him to wherever it might for the 53 years his life. This life roamed from Staten Island to Okinawa in the US Marine Corp 
-        after brief careers as a stock broker wannabe in San Franisco and then to a stint in Germany where he tried to be a photojournalist. Though this 
+        after brief careers as a stockbroker wannabe in San Franisco and then to a stint in Germany where he tried to be a photojournalist. Though this 
         chapter contains two short stories, one of which Jaak inspired Ray to write and another supposedly written by Martin, aka Jaak, about a segment 
         of the ex-Marine Jaak's life. Even so, this chapter novel is a tribute to the memory of Martin, or Jaak. This memory began the day he stepped 
         off a plane from Munich in Dulles to await three boxes that held all of his camara and computer equipment and all the rest of his worldly possessions, 
